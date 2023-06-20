@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serdar Karacığa</h1>
-<h3 align="center">I am a software developer eager to learn.</h3>
+<h3 align="center">I've had a robotic companion to my computer since I was little. So I decided to move forward in this field..</h3>
 
 - 🔭 I’m currently working on **C#**
 
